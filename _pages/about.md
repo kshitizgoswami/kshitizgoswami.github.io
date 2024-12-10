@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hey There, I'm Kshitiz"
+title: "Hey There, Welcome to Kshitizverse"
 author_profile: true
 redirect_from: 
   - /about/
