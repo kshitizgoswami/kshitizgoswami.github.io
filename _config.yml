@@ -21,12 +21,12 @@ repository               : "kshitizgoswami/kshitizgoswami.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Untitled design (2).png"
   name             : "Kshitiz Goswami"
   pronouns         : # example: "she/her"  
-  bio              : "HEV Engineer & Model-Based Developer "
-  location         : "New Delhi"
-  employer         : "Visvesvaraya Technological University"
+  bio              : "Mechanical Engineer & Model-Based Developer"
+  location         : "New Delhi, India"
+  employer         : "Visvesvaraya Tech. Univ."
   uri              : # URL
   email            : "kshitizgoswami@outlook.com" 
 
